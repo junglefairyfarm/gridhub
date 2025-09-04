@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": ".next",
+    "public": "gridhub",
     "ignore": [
       "firebase.json",
       "**/.*",
