@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "gridhub",
+    "public": "out",
     "ignore": [
       "firebase.json",
       "**/.*",
